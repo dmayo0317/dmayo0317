@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dmayo0317
+- 👋 Hi, I’m Daniella Mayoral
+- Welcome to my Git Hub
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything that intrest me
